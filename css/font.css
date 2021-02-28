@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'archy';
+    src: url('../font/ArchyEDT-Thin.eot');
+    src: url('../font/ArchyEDT-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../font/ArchyEDT-Thin.woff2') format('woff2'),
+        url('../font/ArchyEDT-Thin.woff') format('woff'),
+        url('../font/ArchyEDT-Thin.ttf') format('truetype'),
+        url('../font/ArchyEDT-Thin.svg#ArchyEDT-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+ 

@@ -1,0 +1,23 @@
+.logo{
+	margin-left: 140px;
+}
+.flex{
+	display: flex;
+	list-style-type: none;	
+}
+ul li a{
+	margin-right: 50px;
+	text-decoration: none;
+	font-family: archy;
+	color: #707070;
+}
+header{
+	margin-top: 50px;
+}
+.slide{
+	margin-left: 140px;
+	margin-top: 200px;
+}
+.main{
+	margin-left: 850px;
+}
