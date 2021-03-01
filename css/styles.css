@@ -1,7 +1,16 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 .logo{
 	margin-left: 140px;
 }
 .flex{
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
 	list-style-type: none;	
 }
@@ -52,3 +61,27 @@ h2{
 	text-decoration: none;
 	margin-top: 50px;
 }
+.fi{
+	margin-left: 140px;
+}
+footer{
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	list-style-type: none;
+	background-color: #2E2E2E;
+	width: 100%;
+}
+.contact{
+	width: 122px;
+	font-size: 13px;
+	margin-left: 370px;
+}
+.address{
+	font-size: 13px;
+	width: 122px		
+}
+.fb{
+	margin-left: 700px;
+}
+
